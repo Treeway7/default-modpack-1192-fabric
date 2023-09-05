@@ -1,0 +1,7 @@
+# The configuration file for Log Begone
+
+[logbegone]
+# If a log message has one of these phrases, it will be filtered out from logging
+phrases = ["that were leaked from an unknown location (logging is disabled)"]
+
+regex = []
