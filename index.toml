@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "ca6807967642bf74f1d35fce7d79583559976ff7eced3fa1a54b2081805d3db0"
+
+[[files]]
+file = "config/yosbr/config/ordinarytweaks.json"
+hash = "7455d7d7d90aaed47c206e29c3e07dd9c1e40d0cdcb288cd46c68ad97ceed02a"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "5a4a20592f5629055e88c3bcc42ba18911f60defa2efbeeafb9ae0945e39aefc"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "2efef40105037d802c4cd424f9831d452f2caf4bfcca41f73feb9a2c5cae01f1"
 metafile = true
