@@ -1,0 +1,12 @@
+name = "Default Modpack 1.19.2 Fabric"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "10b276aaaf77224e672cba4963a3fcbd73046fddddcbe8d99e895c0266ad45a6"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.20.2"

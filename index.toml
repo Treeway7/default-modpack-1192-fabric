@@ -1,0 +1,135 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "2efef40105037d802c4cd424f9831d452f2caf4bfcca41f73feb9a2c5cae01f1"
+metafile = true
+
+[[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "0f14ee49cf3518fac0862597449dcd4715fbb1a156a0b5e86d1ba01eff1bf29b"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance-fabric.pw.toml"
+hash = "980f303c37a66e4eaa0cb748d540c99fd27004ba71757abec9ec92217607ccfe"
+metafile = true
+
+[[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "654bcf2e373b882c89ca6f89d6c419893a6d5d6f263fc800e746ab155677428e"
+metafile = true
+
+[[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "fb90e45c41a7800b5e107c0babe482c2f5e14056e37ce24d1761a9d92891e28b"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "93e56787ea6b7ff794f84d4238fa194705dc65b1f73d204bddb3e2948d24c366"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "982743761e69c64dbf5a287539d2ea2f8dcf8f2eaa3fef9bc481a979a1df38a2"
+metafile = true
+
+[[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "069e62f464493152f906920c28ef6fd7ae508fad13759de74a439fed99dfb172"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "0e9c1ac6fc821d1683d834ecbbdd4122980f0bf4599c9731a886cbb8006ce620"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "66023ec6fd9d24094d04daa9d94d7f8fee950ac4f4bcd56aa08c0ad394678d7f"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "c6705186e23c5c3cb91f92af4a48be356cd6a18e384a0e1fa9616125f734f201"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
+metafile = true
+
+[[files]]
+file = "mods/redirectionor.pw.toml"
+hash = "815db7cfce2d7ac72bdad98664b82d91e60e2215d1f9e80010869828cf47c9ec"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "969791ea917a018ef88ec8454f158aa0e4d6f11633b03b6a8139516b2ad75b7c"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "e40814974f4b4652cbdef2a1002f8b5a7beb3e84c98cc4d645e8b3dd328648ea"
+metafile = true
